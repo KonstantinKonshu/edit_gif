@@ -1,0 +1,14 @@
+.gif-sq_block-item{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  & > * {
+    margin: 0 10px;
+  }
+
+  & .css-2b097c-container{
+    width: 13%;
+  }
+
+}
