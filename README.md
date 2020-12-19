@@ -41,8 +41,8 @@ See the section about [electron-builder](https://www.electron.build/) for more i
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/),
-To learn Craco, check out the [Craco](https://github.com/gsoft-inc/craco),
-To learn Electron, check out the [Electron Documentation](https://www.electronjs.org/docs),
-To learn Electron-builder, check out the [electron-builder](https://www.electron.build/)
+To learn React, check out the [React documentation](https://reactjs.org/).
+To learn Craco, check out the [Craco](https://github.com/gsoft-inc/craco).
+To learn Electron, check out the [Electron Documentation](https://www.electronjs.org/docs).
+To learn Electron-builder, check out the [electron-builder](https://www.electron.build/).
 
